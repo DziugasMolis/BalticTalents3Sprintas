@@ -22,25 +22,23 @@ public class Uzduotis {
         }
 //        filter(box.selectionSort(box));
         System.out.println();
-        List<Employee> tuscias = new ArrayList<>();
 
-        List<Integer> skaiciuMasyvas = new ArrayList<>();
-        skaiciuMasyvas.add(1);
-        skaiciuMasyvas.add(2);
+        List<Employee> tuscias = new ArrayList<>();
         tuscias.add(new Employee("Pertras", 1000));
         tuscias.add(new Employee("Stasys", 1200));
         tuscias.add(new Employee("Jonas", 1100));
-//        tuscias.forEach((employee) -> System.out.println(employee));
-        Check<Employee> check = ((e1, e2) -> {
-            return e1.getSalary().compareTo(e2.getSalary());
-        });
+        Collections.sort(tuscias, (o1, o2) -> o1.getSalary().compareTo(o2.getSalary()));
+        tuscias.forEach((employee) -> System.out.println(employee));
+//        Check<Employee> check = ((e1, e2) -> {
+//            return e1.getSalary().compareTo(e2.getSalary());
+//        });
 //        tuscias.sort((Employee e1, Employee e2) -> (int) (e1.getSalary() - e2.getSalary()));
 //        tuscias.forEach((employee) -> System.out.println(employee));
 //        tuscias.iterator();
-        filterByFilter(box, check);
-        for(int i = 0; i < box.size(); i++) {
-            System.out.println(box.get(i));
-        }
+//        filterByFilter(box, check);
+//        for(int i = 0; i < box.size(); i++) {
+//            System.out.println(box.get(i));
+//        }
 
 
     }

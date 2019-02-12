@@ -1,10 +1,10 @@
-package java13.data;
+package java14.data;
 
-public class Employee  {
+public class Employee {
 
     private String name;
 
-    private Double salary;
+    private double salary;
 
     private String department;
 
@@ -27,11 +27,11 @@ public class Employee  {
         this.name = name;
     }
 
-    public Double getSalary() {
+    public double getSalary() {
         return salary;
     }
 
-    public void setSalary(Double salary) {
+    public void setSalary(double salary) {
         this.salary = salary;
     }
 
@@ -50,7 +50,4 @@ public class Employee  {
                 ", salary=" + salary +
                 '}';
     }
-
-
-
 }
