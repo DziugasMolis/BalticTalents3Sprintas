@@ -20,7 +20,7 @@ public class Main {
 //        list.stream().filter(new Predicate<Employee>() {
 //                                 @Override
 //                                 public boolean test(Employee employee) {
-//                                     return employee.getSalary() > 1000.0;
+//                                     return employee.getAlga() > 1000.0;
 //                                 }
 //        }).forEach(new Consumer<Employee>() {
 //            @Override

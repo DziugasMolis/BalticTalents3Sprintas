@@ -30,9 +30,9 @@ public class Uzduotis {
         Collections.sort(tuscias, (o1, o2) -> o1.getSalary().compareTo(o2.getSalary()));
         tuscias.forEach((employee) -> System.out.println(employee));
 //        Check<Employee> check = ((e1, e2) -> {
-//            return e1.getSalary().compareTo(e2.getSalary());
+//            return e1.getAlga().compareTo(e2.getAlga());
 //        });
-//        tuscias.sort((Employee e1, Employee e2) -> (int) (e1.getSalary() - e2.getSalary()));
+//        tuscias.sort((Employee e1, Employee e2) -> (int) (e1.getAlga() - e2.getAlga()));
 //        tuscias.forEach((employee) -> System.out.println(employee));
 //        tuscias.iterator();
 //        filterByFilter(box, check);

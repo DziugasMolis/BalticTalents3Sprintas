@@ -39,9 +39,9 @@ public class Main {
 //        Collections.sort(list, new Comparator<Employee>() {
 //            @Override
 //            public int compare(Employee o1, Employee o2) {
-//                int comp = o1.getDepartment().compareTo(o2.getDepartment());
+//                int comp = o1.getDepartamentas().compareTo(o2.getDepartamentas());
 //                if (comp == 0) {
-//                    return o1.getName().compareTo(o2.getName());
+//                    return o1.getVardas().compareTo(o2.getVardas());
 //                } else {
 //                    return comp;
 //                }
@@ -57,9 +57,9 @@ public class Main {
 //        list.sort(new Comparator<Employee>() {
 //            @Override
 //            public int compare(Employee o1, Employee o2) {
-//                int comp = o1.getName().compareTo(o2.getName());
+//                int comp = o1.getVardas().compareTo(o2.getVardas());
 //                if (comp == 0) {
-//                    return o1.getDepartment().compareTo(o2.getDepartment());
+//                    return o1.getDepartamentas().compareTo(o2.getDepartamentas());
 //                } else {
 //                    return comp;
 //                }

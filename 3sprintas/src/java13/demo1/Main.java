@@ -24,7 +24,7 @@ public class Main {
 //
 //            @Override
 //            public boolean test(Employee e) {
-//                return e.getSalary() > 1000.0 && e.getDepartment().equals("administration");
+//                return e.getAlga() > 1000.0 && e.getDepartamentas().equals("administration");
 //            }
 //        });
         Check<Employee> filtras = e -> (e.getSalary() > 1000.0) && e.getDepartment().equals("sales");
