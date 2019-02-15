@@ -13,8 +13,9 @@ public class Main {
 //        spausdinti(list, "Pradiniai duomenys");
 //        Collections.sort(list);
 //        spausdinti(list, "Surikiuoti duomenys");
-        ArrayList<Employee> atfiltruoti = rastiVienodus(list);
-        spausdinti(atfiltruoti, "Rasti vienodi");
+        Map<Employee, Integer> atfiltruoti = rastiVienodus(list);
+        atfiltruoti.entrySet().forEach(x -> System.out.println("Darbuotojas " + x.getKey() + " Kiekis: " + x.getValue()));
+//        spausdinti(atfiltruoti, "Rasti vienodi");
     }
 
     public static void spausdinti(List<Employee> list, String atliktaUzduotis) {
@@ -52,31 +53,16 @@ public class Main {
     }
 
 
-    public static ArrayList<Employee> rastiVienodus(List<Employee> list) {
-        ArrayList<Employee> vienodi = new ArrayList<>();
-        vienodi.add(list.get(0));
-        for (int i = 1; i < list.size(); i++) {
-            if(!vienodi.contains(list.get(i))) {
-                vienodi.add(list.get(i));
+    public static Map<Employee, Integer> rastiVienodus(List<Employee> list) {
+        Map<Employee, Integer> counts = new HashMap<>();
+
+        for (Employee obj: list) {
+            if (counts.containsKey(obj)) {
+                counts.put(obj, counts.get(obj) + 1);
+            } else {
+                counts.put(obj, 1);
             }
         }
-//        Set<Employee> unikalus = new HashSet<>(list);
-//
-//        for(Employee obj: unikalus) {
-//            System.out.println(obj);
-//        }
-//        unikalus.add(list.get)
-//        for (int i = 0; i < list.size(); i++) {
-//            for (int j = i + 1; j < list.size(); j++) {
-//                if(list.get(i).equals(list.get(j))){
-//                    unikalus.add(list.get(j));
-////                    if(!vienodi.contains(list.get(j))) {
-////                        vienodi.add(list.get(j));
-////                    }
-//                }
-//            }
-//        }
-//        System.out.println(unikalus);
-        return vienodi;
+        return counts;
     }
 }

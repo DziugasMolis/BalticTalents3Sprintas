@@ -2,39 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2ffcae2-43d4-4718-b000-4e090ae61e3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java14/uzd2/Automobilis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java14/uzd2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java15/demo1/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java15/demo2/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java15/demo3/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java15/demo4/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java15/demo5/Demo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java15/demo6/Demo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java15/demo7/Demo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java15/demo8/Demo8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java15/demo9/Demo9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java15/uzd1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java15/uzd1/Saskaita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java15/uzd2/DarbuotojuDuomenys.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java15/uzd2/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java15/uzd2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java16/Krepsinis/taskai.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java16/Krepsinis/zaidejai.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java16/Testai/ZmogausTestai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java16/Testai/Zmogus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java16/Tree/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java16/Tree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java16/ZmonesMasinos/DarbuotojuDuomenys.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java16/ZmonesMasinos/Masinos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java16/ZmonesMasinos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java16/ZmonesMasinos/Masina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java16/ZmonesMasinos/Zmogus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3sprintas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/3sprintas.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3sprintas/java14/uzd1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3sprintas/java14/uzd1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/3sprintas/java14/uzduotis3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3sprintas/java14/uzduotis3/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java13/Uzduotis/Uzduotis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java13/Uzduotis/Uzduotis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java13/demo1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java13/demo1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java14/demo7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14/demo7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java14/demo9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14/demo9/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java14/uzduotis3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java14/uzduotis3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/3sprintas/java15/uzd2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/3sprintas/java15/uzd2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java15/uzd2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java15/uzd2/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,11 +21,78 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java15/uzd2/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="58" column="27" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
+            <state relative-caret-position="170">
+              <caret line="10" column="101" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="101" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java16/ZmonesMasinos/Masina.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="e#258#259#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+                <element signature="e#397#398#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#516#517#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java16/ZmonesMasinos/Zmogus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+              <folding>
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#438#439#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#476#477#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#540#541#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+                <element signature="e#624#625#0" expanded="true" />
+                <element signature="e#666#667#0" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#766#767#0" expanded="true" />
+                <element signature="e#820#821#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java16/ZmonesMasinos/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="62" column="20" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java16/ZmonesMasinos/DarbuotojuDuomenys.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -69,8 +109,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java16/Testai/Zmogus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+            <state relative-caret-position="126">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="26" />
               <folding>
                 <element signature="e#355#356#0" expanded="true" />
                 <element signature="e#394#395#0" expanded="true" />
@@ -85,11 +125,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java16/Testai/ZmogausTestai.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+            <state relative-caret-position="291">
+              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java16/Tree/BinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1938">
+              <caret line="126" column="16" selection-start-line="126" selection-start-column="16" selection-end-line="126" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,9 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java13/Container.java" />
-        <option value="$PROJECT_DIR$/src/java13/demo2/Main.java" />
-        <option value="$PROJECT_DIR$/src/java13/demo4/Main.java" />
         <option value="$PROJECT_DIR$/src/java13/demo3/Main.java" />
         <option value="$PROJECT_DIR$/src/java13/demo5/Main.java" />
         <option value="$PROJECT_DIR$/src/java13/demo1/Main.java" />
@@ -159,10 +208,13 @@
         <option value="$PROJECT_DIR$/src/java16/Krepsinis/taskai.txt" />
         <option value="$PROJECT_DIR$/src/java16/ZmonesMasinos/Masinos.txt" />
         <option value="$PROJECT_DIR$/src/java16/ZmonesMasinos/DarbuotojuDuomenys.txt" />
-        <option value="$PROJECT_DIR$/src/java15/uzd2/Main.java" />
         <option value="$PROJECT_DIR$/src/java15/uzd2/Employee.java" />
         <option value="$PROJECT_DIR$/src/java16/Testai/Zmogus.java" />
         <option value="$PROJECT_DIR$/src/java16/Testai/ZmogausTestai.java" />
+        <option value="$PROJECT_DIR$/src/java15/uzd2/Main.java" />
+        <option value="$PROJECT_DIR$/src/java16/ZmonesMasinos/Masina.java" />
+        <option value="$PROJECT_DIR$/src/java16/ZmonesMasinos/Zmogus.java" />
+        <option value="$PROJECT_DIR$/src/java16/ZmonesMasinos/Main.java" />
       </list>
     </option>
   </component>
@@ -229,6 +281,13 @@
               <item name="3sprintas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java16" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3sprintas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3sprintas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java16" type="462c0819:PsiDirectoryNode" />
               <item name="ZmonesMasinos" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -244,7 +303,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550153981928" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550160156171" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -279,7 +338,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ZmogausTestai">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java15.uzd2.Main" />
       <module name="3sprintas" />
@@ -293,12 +352,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java15.uzd1.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java16.Tree.Main" />
       <module name="3sprintas" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java15.uzd1.*" />
+          <option name="PATTERN" value="java16.Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java16.ZmonesMasinos.Main" />
+      <module name="3sprintas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java16.ZmonesMasinos.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,22 +406,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZmogausTestai.testasGautiAmziu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="3sprintas" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java16.Testai.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="java16.Testai" />
-      <option name="MAIN_CLASS_NAME" value="java16.Testai.ZmogausTestai" />
-      <option name="METHOD_NAME" value="testasGautiAmziu" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ZmogausTestai.testasGautiVardaPavarde" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="3sprintas" />
       <extension name="coverage">
@@ -368,11 +424,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="JUnit.ZmogausTestai" />
         <item itemvalue="JUnit.ZmogausTestai.testasGautiVardaPavarde" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="JUnit.ZmogausTestai.testasGautiAmziu" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -393,10 +449,15 @@
     <history-entry file="ZmogausTestai_testasGautiVardaPavarde - 2019.02.14 at 16h 18m 38s.xml">
       <configuration name="ZmogausTestai.testasGautiVardaPavarde" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ZmogausTestai_testasGautiVardaPavarde - 2019.02.14 at 16h 18m 56s.xml">
+      <configuration name="ZmogausTestai.testasGautiVardaPavarde" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ZmogausTestai - 2019.02.14 at 16h 19m 44s.xml">
+      <configuration name="ZmogausTestai" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27919462" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -407,15 +468,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932885" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.64295304" visible="true" weight="0.48441926" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.63020134" weight="0.39943343" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.63892615" weight="0.4206799" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.62684566" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.357047" side_tool="true" visible="true" weight="0.48441926" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.37315437" side_tool="true" visible="true" weight="0.4206799" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49463087" weight="0.32719547" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49328858" weight="0.32719547" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -427,9 +488,20 @@
     </layout>
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java16/ZmonesMasinos/Main.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="this" language="JAVA" />
+        <watch expression="((HashMap)data).entrySet().toArray()[1]" custom="java.util.HashMap" />
       </configuration>
     </watches-manager>
   </component>
@@ -443,77 +515,53 @@
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
+        <expression-string>entry.getValue().get(masinos.get(i).getNumeriai())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>masinos.get(i).getNumeriai()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>entry.getValue().get(masinos.get(i).getNumeriai()) != null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>map.get(&quot;e&quot;) != null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>masinos.get(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>entry.getValue()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>entry.getValue().get()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>entry.getValue().get(masinos.get(i))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>pavarde != null ? pavarde.equals(employee.pavarde) : false</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>pavarde.equals(employee.pavarde)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>list.get(i)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>vienodi.contains(list.get(i))</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>vienodi.get().equals(list.get(i))</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>vienodi.get(0).equals(list.get(i))</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>vienodi.get(2).equals(list.get(i))</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>vienodi.get(1).equals(list.get(i))</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>vienodi.equals(list.get(i))</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java13/data/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java13/Uzduotis/Uzduotis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="29" column="86" selection-start-line="29" selection-start-column="86" selection-end-line="29" selection-end-column="86" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java14/demo1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="56" column="36" selection-start-line="56" selection-start-column="36" selection-end-line="56" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/TreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
@@ -819,44 +867,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java16/Tree/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java16/Tree/BinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java16/ZmonesMasinos/Masinos.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java16/ZmonesMasinos/DarbuotojuDuomenys.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java15/uzd2/DarbuotojuDuomenys.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
@@ -875,27 +885,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java15/uzd2/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/java16/Tree/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="58" column="27" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
+        <state relative-caret-position="244">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java16/Tree/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="126" column="16" selection-start-line="126" selection-start-column="16" selection-end-line="126" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java15/uzd2/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/java16/Testai/ZmogausTestai.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="86" column="62" selection-start-line="86" selection-start-column="62" selection-end-line="86" selection-end-column="62" />
+        <state relative-caret-position="291">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java16/Testai/Zmogus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        <state relative-caret-position="126">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="26" />
           <folding>
             <element signature="e#355#356#0" expanded="true" />
             <element signature="e#394#395#0" expanded="true" />
@@ -909,10 +929,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java16/Testai/ZmogausTestai.java">
+    <entry file="file://$PROJECT_DIR$/src/java15/uzd2/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        <state relative-caret-position="201">
+          <caret line="86" column="62" selection-start-line="86" selection-start-column="62" selection-end-line="86" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java15/uzd2/DarbuotojuDuomenys.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java16/ZmonesMasinos/Masina.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java16/ZmonesMasinos/Zmogus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+          <folding>
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java15/uzd2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="101" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="101" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java16/ZmonesMasinos/DarbuotojuDuomenys.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java16/ZmonesMasinos/Masinos.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java16/ZmonesMasinos/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="62" column="20" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="77" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
