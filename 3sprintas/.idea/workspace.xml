@@ -2,64 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2ffcae2-43d4-4718-b000-4e090ae61e3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java19/demo1_Adapter/Android.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo1_Adapter/AndroidRecharger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo1_Adapter/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo1_Adapter/IFormatAndroid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo1_Adapter/IFormatIPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo1_Adapter/IPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo1_Adapter/IPhoneAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo1_Adapter/IPhoneRecharger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo1_Adapter/MicroUsbRecharger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo2_Bridge/CircleShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo2_Bridge/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo2_Bridge/DrawingAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo2_Bridge/DrawingAPI1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo2_Bridge/DrawingAPI2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo2_Bridge/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo3_Composite/CompositeGraphic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo3_Composite/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo3_Composite/Ellipse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo3_Composite/Graphic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo4_Decorator/Demo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo4_Decorator/HorizontalScrollBarDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo4_Decorator/SimpleWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo4_Decorator/VerticalScrollBarDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo4_Decorator/Window.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo4_Decorator/WindowDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo5_Facade/CPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo5_Facade/ComputerFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo5_Facade/Demo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo5_Facade/HardDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo5_Facade/Memory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo6_Flyweight/CharacterA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo6_Flyweight/CharacterB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo6_Flyweight/CharacterC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo6_Flyweight/Demo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo6_Flyweight/EnglishCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo6_Flyweight/FlyweightFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo7_Proxy/Demo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo7_Proxy/Image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo7_Proxy/ProxyImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java19/demo7_Proxy/RealImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java20/demo1_ChainOfResponsibility/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java20/demo1_ChainOfResponsibility/DirectorPPower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java20/demo1_ChainOfResponsibility/ManagerPPower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java20/demo1_ChainOfResponsibility/PresidentPPower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java20/demo1_ChainOfResponsibility/PurchasePower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java20/demo1_ChainOfResponsibility/PurchaseRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java20/demo1_ChainOfResponsibility/VicePresidentPPower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java20/demo2_Command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java20/demo2_Command/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java20/demo2_Command/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java20/demo2_Command/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java20/demo2_Command/TurnOffLightCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java20/demo2_Command/TurnOnLightCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java20/demo3_Observer/CurrentConditionsDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java20/demo3_Observer/Demo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java20/demo3_Observer/Observable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java20/demo3_Observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java20/demo3_Observer/WeatherData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java19/BuitineTechnika/Duomenys.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -74,8 +17,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java19/demo6_Flyweight/Demo6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="12" column="54" lean-forward="true" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+            <state relative-caret-position="204">
+              <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -83,7 +26,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java19/demo6_Flyweight/FlyweightFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
+            <state relative-caret-position="136">
               <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
             </state>
           </provider>
@@ -93,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/src/java19/demo7_Proxy/Demo7.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -101,7 +44,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java19/demo7_Proxy/ProxyImage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
+            <state relative-caret-position="187">
               <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
               <folding>
                 <element signature="e#249#250#0" expanded="true" />
@@ -120,11 +63,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/java19/demo7_Proxy/RealImage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-127">
+            <state relative-caret-position="34">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/java19/BuitineTechnika/Duomenys.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -156,15 +108,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java19/demo6_Flyweight/EnglishCharacter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -186,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java15/demo7/Demo7.java" />
         <option value="$PROJECT_DIR$/src/java15/uzd1/Saskaita.java" />
         <option value="$PROJECT_DIR$/src/java15/uzd1/Main.java" />
         <option value="$PROJECT_DIR$/src/java16/Main.java" />
@@ -237,12 +179,13 @@
         <option value="$PROJECT_DIR$/src/java20/demo3_Observer/Demo3.java" />
         <option value="$PROJECT_DIR$/src/java19/demo3_Composite/Demo3.java" />
         <option value="$PROJECT_DIR$/src/java19/demo4_Decorator/Demo4.java" />
+        <option value="$PROJECT_DIR$/src/java19/BuitineTechnika/Duomenys.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
-    <option name="width" value="979" />
+    <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -253,6 +196,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,21 +221,12 @@
               <item name="3sprintas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="java19" type="462c0819:PsiDirectoryNode" />
-              <item name="demo1_Adapter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="3sprintas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="3sprintas" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java19" type="462c0819:PsiDirectoryNode" />
-              <item name="demo7_Proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="BuitineTechnika" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -298,7 +234,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550604657162" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550605440247" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -441,10 +377,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7775" visible="true" weight="0.20738254" />
-      <window_info id="Structure" order="1" sideWeight="0.2225" side_tool="true" visible="true" weight="0.20738254" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7776204" visible="true" weight="0.21006711" />
+      <window_info id="Structure" order="1" sideWeight="0.22237961" side_tool="true" visible="true" weight="0.21006711" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -452,7 +387,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932885" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.63800275" visible="true" weight="0.43342775" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.63800275" weight="0.43342775" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.62684566" weight="0.60339946" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -564,23 +499,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java18/PrekybaElektroniniaisPrietaisais/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java19/demo1_Adapter/Android.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java20/demo1_ChainOfResponsibility/PurchasePower.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -845,6 +763,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/java19/BuitineTechnika.java" />
+    <entry file="file://$PROJECT_DIR$/src/java19/demo6_Flyweight/Demo6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java19/demo6_Flyweight/FlyweightFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java19/demo7_Proxy/Demo7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java19/demo7_Proxy/ProxyImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding>
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java19/demo7_Proxy/Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/java19/demo6_Flyweight/CharacterA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -866,49 +824,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/java19/demo6_Flyweight/Demo6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="54" lean-forward="true" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java19/demo6_Flyweight/FlyweightFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java19/demo7_Proxy/Demo7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java19/demo7_Proxy/ProxyImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java19/demo7_Proxy/Image.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java19/demo7_Proxy/RealImage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-127">
+        <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java19/BuitineTechnika/Duomenys.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
         </state>
       </provider>
     </entry>
