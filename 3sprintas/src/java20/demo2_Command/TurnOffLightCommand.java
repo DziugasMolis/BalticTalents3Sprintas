@@ -1,6 +1,6 @@
 package java20.demo2_Command;
 
-public class TurnOffLightCommand implements Command{
+public class TurnOffLightCommand implements Command {
 
     private Light theLight;
 
