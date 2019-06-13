@@ -8,12 +8,13 @@ import java.util.TreeMap;
 public class Main {
     static void insertAndPrint(Map<Integer, String> map)
     {
-        int[] array= {1, -1, 0, 2,-2};
+        int[] array= {1, -3, -1, 0, 2,-2};
         for (int x: array)
         {
             map.put(x, Integer.toString(x));
         }
-        for (int k: map.keySet())
+//        map.put(null, "null");
+        for (Integer k: map.keySet())
         {
             System.out.print(k + ", ");
         }
@@ -21,13 +22,13 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        HashMap<Integer, String> hashMap = new HashMap<Integer, String>();
+        HashMap<Integer, String> hashMap = new HashMap<>();
         insertAndPrint(hashMap);
 
-        LinkedHashMap<Integer, String> linkedMap = new LinkedHashMap<Integer, String>();
+        LinkedHashMap<Integer, String> linkedMap = new LinkedHashMap<>();
         insertAndPrint(linkedMap);
 
-        TreeMap<Integer, String> treeMap = new TreeMap<Integer, String>();
+        TreeMap<Integer, String> treeMap = new TreeMap<>();
         insertAndPrint(treeMap);
     }
 }
